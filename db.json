@@ -2,7 +2,104 @@
     "events": [
         {
             "name": "Evento 1",
-            "production": "Produtor 1"
+            "production": "Produtor 1",
+            "rating": 5,
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa1.jpg",
+            "description": "Descrição do Evento",
+            "categories": [
+                "Categoria 1",
+                "Categoria 2",
+                "Categoria 3"
+            ],
+            "features": "- Atração 1\n- Atração 2\n- Atração 3\n- Atração 4"     
+        },
+        {
+            "name": "Evento 2",
+            "production": "Produtor 2",
+            "rating": 4,
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa2.jpg",
+            "description": "Descrição do Evento",
+            "categories": [
+                "Categoria 1",
+                "Categoria 3",
+                "Categoria 4"
+            ],
+            "features": "- Atração 1\n- Atração 2\n- Atração 3\n- Atração 4"         
+        },
+        {
+            "name": "Evento 3",
+            "production": "Produtor 3",
+            "rating": 4,
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa3.jpg",
+            "description": "Descrição do Evento",
+            "categories": [
+                "Categoria 2",
+                "Categoria 3",
+                "Categoria 4"
+            ],
+            "features": "- Atração 1\n- Atração 2\n- Atração 3\n- Atração 4"         
+        },
+        {
+            "name": "Evento 4",
+            "production": "Produtor 4",
+            "rating": 5,
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa4.jpg",
+            "description": "Descrição do Evento",
+            "categories": [
+                "Categoria 3",
+                "Categoria 5"
+            ],
+            "features": "- Atração 1\n- Atração 2\n- Atração 3\n- Atração 4"         
+        },
+        {
+            "name": "Evento 5",
+            "production": "Produtor 5",
+            "rating": 5,
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa5.jpg",
+            "description": "Descrição do Evento",
+            "categories": [
+                "Categoria 2",
+                "Categoria 5",
+                "Categoria 6"
+            ],
+            "features": "- Atração 1\n- Atração 2\n- Atração 3\n- Atração 4"         
+        }, 
+        {
+            "name": "Evento 6",
+            "production": "Produtor 6",
+            "rating": 3,
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa6.jpg",
+            "description": "Descrição do Evento",
+            "categories": [
+                "Categoria 4",
+                "Categoria 5",
+                "Categoria 6"
+            ],
+            "features": "- Atração 1\n- Atração 2\n- Atração 3\n- Atração 4"         
+        },
+        {
+            "name": "Evento 7",
+            "production": "Produtor 1",
+            "rating": 4,
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa7.jpg",
+            "description": "Descrição do Evento",
+            "categories": [
+                "Categoria 1",
+                "Categoria 3",
+                "Categoria 7"
+            ],
+            "features": "- Atração 1\n- Atração 2\n- Atração 3\n- Atração 4"         
+        },
+        {
+            "name": "Evento 8",
+            "production": "Produtor 2",
+            "rating": 3,
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa8.jpg",
+            "description": "Descrição do Evento",
+            "categories": [
+                "Categoria 5"
+            ],
+            "features": "- Atração 1\n- Atração 2\n- Atração 3\n- Atração 4"         
         }
     ]
 }
