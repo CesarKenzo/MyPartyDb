@@ -1,0 +1,8 @@
+{
+    "events": [
+        {
+            "name": "Evento 1",
+            "production": "Produtor 1"
+        }
+    ]
+}
