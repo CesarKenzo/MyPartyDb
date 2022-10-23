@@ -109,5 +109,151 @@
             ],
             "features": "- Atração 1\n- Atração 2\n- Atração 3\n- Atração 4"         
         }
+    ],
+    "tickets": [
+        {
+            "id": 1,
+            "name": "Lote 1 - Ingresso Meia",
+            "eventId": 1,
+            "value": 20.0,
+            "type": "Meia",
+            "available": 100
+        },
+        {
+            "id": 2,
+            "name": "Lote 1 - Ingresso Comum",
+            "eventId": 1,
+            "value": 40.0,
+            "type": "Comum",
+            "available": 100
+        },
+        {
+            "id": 3,
+            "name": "Ingresso Dia - 25/11",
+            "eventId": 2,
+            "value": 120.0,
+            "type": "Comum",
+            "available": 0
+        },
+        {
+            "id": 4,
+            "name": "Ingresso Dia - 25/11",
+            "eventId": 2,
+            "value": 60.0,
+            "type": "Meia",
+            "available": 0
+        },
+        {
+            "id": 5,
+            "name": "Ingresso Dia - 26/11",
+            "eventId": 2,
+            "value": 120.0,
+            "type": "Comum",
+            "available": 0
+        },
+        {
+            "id": 6,
+            "name": "Ingresso Dia - 26/11",
+            "eventId": 2,
+            "value": 60.0,
+            "type": "Meia",
+            "available": 0
+        },
+        {
+            "id": 7,
+            "name": "Ingresso Comum",
+            "eventId": 3,
+            "value": 50.0,
+            "type": "Comum",
+            "available": 100
+        },
+        {
+            "id": 8,
+            "name": "Ingresso Meia",
+            "eventId": 3,
+            "value": 25.0,
+            "type": "Meia",
+            "available": 100
+        },
+        {
+            "id": 9,
+            "name": "Ingresso Comum",
+            "eventId": 4,
+            "value": 70.0,
+            "type": "Comum",
+            "available": 100
+        },
+        {
+            "id": 10,
+            "name": "Ingresso VIP",
+            "eventId": 4,
+            "value": 120.0,
+            "type": "VIP",
+            "available": 100
+        },
+        {
+            "id": 11,
+            "name": "Lote 1 - Ingresso",
+            "eventId": 5,
+            "value": 30.0,
+            "type": "Comum",
+            "available": 0
+        },
+        {
+            "id": 12,
+            "name": "Lote 2 - Ingresso",
+            "eventId": 5,
+            "value": 35.0,
+            "type": "Comum",
+            "available": 100
+        },
+        {
+            "id": 13,
+            "name": "Lote 1 - Inteira",
+            "eventId": 6,
+            "value": 200.0,
+            "type": "Comum",
+            "available": 200
+        },
+        {
+            "id": 14,
+            "name": "Lote 1 - Meia",
+            "eventId": 6,
+            "value": 100.0,
+            "type": "Meia",
+            "available": 200
+        },
+        {
+            "id": 15,
+            "name": "Ingresso Comum",
+            "eventId": 7,
+            "value": 70.0,
+            "type": "Comum",
+            "available": 100
+        },
+        {
+            "id": 16,
+            "name": "Ingresso VIP",
+            "eventId": 7,
+            "value": 140.0,
+            "type": "VIP",
+            "available": 100
+        },
+        {
+            "id": 17,
+            "name": "Lote 1 - Inteira",
+            "eventId": 8,
+            "value": 90.0,
+            "type": "Inteira",
+            "available": 100
+        },
+        {
+            "id": 18,
+            "name": "Lote 1 - Meia",
+            "eventId": 8,
+            "value": 45.0,
+            "type": "Meia",
+            "available": 100
+        }
     ]
 }
