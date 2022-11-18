@@ -255,5 +255,32 @@
             "type": "Meia",
             "available": 100
         }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post 1",
+            "createdBy": "User 1",
+            "language": "Java",
+            "description": "Description of the problem",
+            "categories": [
+                "Categoria 1",
+                "Categoria 2",
+                "Categoria 3"
+            ],
+            "likes": 100 
+        },
+        {
+            "id": 2,
+            "title": "Post 2",
+            "createdBy": "User 2",
+            "language": "C#",
+            "description": "Description of the problem",
+            "categories": [
+                "Categoria 1",
+                "Categoria 2"
+            ],
+            "likes": 50 
+        }
     ]
 }
