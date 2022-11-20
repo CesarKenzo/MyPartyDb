@@ -2,112 +2,107 @@
     "events": [
         {
             "id": 1,
-            "name": "Evento 1",
-            "production": "Produtor 1",
+            "name": "Glow in EACH",
+            "production": "Comissão de festas EACH-USP ",
             "rating": 5,
             "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa1.jpg",
-            "description": "Descrição do Evento",
+            "description": "Um dos melhores eventos do ano, organizado pelo DASI. Não deixe de conferir esse evento com open bar e diversas atrações!  ",
             "categories": [
-                "Categoria 1",
-                "Categoria 2",
-                "Categoria 3"
+                "Festas Universitárias",
+                "Música"
             ],
-            "features": "- Atração 1\n- Atração 2\n- Atração 3\n- Atração 4"     
+            "features": "- Open Bar\n- Música ao vivo"     
         },
         {
             "id": 2,
-            "name": "Evento 2",
-            "production": "Produtor 2",
+            "name": "Holland",
+            "production": "Comissão de festas EACH-USP ",
             "rating": 4,
             "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa2.jpg",
-            "description": "Descrição do Evento",
+            "description": "A Holland é uma festa temática anual do curso de Marketing da EACH-USP e organizado pelo DAMA. Não deixe passar a oportunidade de aproveitar open bar e música de diversos estilos ",
             "categories": [
-                "Categoria 1",
-                "Categoria 3",
-                "Categoria 4"
+                "Festas Universitárias",
+                "Música"
             ],
-            "features": "- Atração 1\n- Atração 2\n- Atração 3"         
+            "features": "- Open Bar\n- Música ao vivo"         
         },
         {
             "id": 3,
-            "name": "Evento 3",
-            "production": "Produtor 3",
+            "name": "Las Brisas",
+            "production": "Comissão de festas EACH-USP ",
             "rating": 4,
             "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa3.jpg",
-            "description": "Descrição do Evento",
+            "description": "Venha conferir a melhor festa à fantasia do ano. Organizada pelo Diretório Acadêmico de Gestão Ambiental este evento possui open bar e música para todos os gostos.",
             "categories": [
-                "Categoria 2",
-                "Categoria 3",
-                "Categoria 4"
+                "Festas Universitárias",
+                "Música"
+               
             ],
-            "features": "- Atração 1\n- Atração 2"         
+            "features": "- Open Bar\n- Música ao vivo"         
         },
         {
             "id": 4,
-            "name": "Evento 4",
+            "name": "CaipirUSP",
             "production": "Produtor 4",
             "rating": 5,
             "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa4.jpg",
-            "description": "Descrição do Evento",
+            "description": "Venha participar dos jogos universitários CaipirUSP. Com diversas competições, shows e open bar. Vai perder esta oportunidade?",
             "categories": [
-                "Categoria 3",
-                "Categoria 5"
+                "Jogos Universitários"
+                
             ],
-            "features": "- Atração 1"         
+            "features": "- Open Bar\n- Música ao vivo"         
         },
         {
             "id": 5,
-            "name": "Evento 5",
-            "production": "Produtor 5",
+            "name": "Tusca",
+            "production": "Associação Universitária ",
             "rating": 5,
             "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa5.jpg",
-            "description": "Descrição do Evento",
+            "description": "A Taça Universitária de São Carlos – a TUSCA é uma das maiores e mais tradicionais competição universitária. Anualmente na cidade de São Carlos. Não deixe passar essa oportunidade e venha prestigiar o maior evento universitário do país. Open bar todos os dias com Vodka, cerveja Heineken, e Gin. ",
             "categories": [
-                "Categoria 2",
-                "Categoria 5",
-                "Categoria 6"
+                "Jogos Universitários"
             ],
-            "features": "- Atração 1\n- Atração 2"         
+            "features": "- Open Bar\n- Música ao vivo"         
         }, 
         {
             "id": 6,
-            "name": "Evento 6",
-            "production": "Produtor 6",
+            "name": "Economíadas",
+            "production": "Associação Universitária",
             "rating": 3,
             "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa6.jpg",
-            "description": "Descrição do Evento",
+            "description": "O Economíadas, fundado em 1991, é um dos mais tradicionais Jogos Universitários do estado de São Paulo, unindo um esportivo e altíssimo nível às conhecidas e apreciadas festas. Não deixe de participar e viver esse evento incrível que ocorrerá na cidade de Araraquara. Open bar incluso com as melhores bebidas. ",
             "categories": [
-                "Categoria 4",
-                "Categoria 5",
-                "Categoria 6"
+                "Jogos Universitários",
+                "Música"
             ],
-            "features": "- Atração 1\n- Atração 2\n- Atração 3"         
+            "features": "- Open Bar\n- Música ao vivo"         
         },
         {
             "id": 7,
-            "name": "Evento 7",
-            "production": "Produtor 1",
+            "name": "Show Maroon 5",
+            "production": "Eventim",
             "rating": 4,
             "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa7.jpg",
-            "description": "Descrição do Evento",
+            "description": "Maroon 5 é uma das mais conhecidas bandas de pop do mundo. Com hits que marcaram gerações, She Will Be Loved, This Love, Moves Like Jagger, Payphone e Girls Like You. A banda norte-americana irá realizar apresentação única no estádio do Allianz em São Paulo. ",
             "categories": [
-                "Categoria 1",
-                "Categoria 3",
-                "Categoria 7"
+                "Música Internacional",
+                "Shows"
             ],
-            "features": "- Atração 1\n- Atração 2\n- Atração 3\n- Atração 4"         
+            "features": "- Música ao vivo"         
         },
         {
             "id": 8,
-            "name": "Evento 8",
-            "production": "Produtor 2",
+            "name": "Rock in Rio",
+            "production": "Eventim",
             "rating": 3,
             "image": "https://magaluteste.blob.core.windows.net/container-myparty/Festa8.jpg",
-            "description": "Descrição do Evento",
+            "description": "Rock in Rio é sem dúvidas um dos maiores festivais musicais do mundo. Localizado na Cidade do Rock, além das atrações musicais, conta com um parque interativo. Não deixe de curtir e viver uma experiência incrível, na cidade maravilhosa.",
             "categories": [
-                "Categoria 5"
+                "Música Internacional",
+                "Shows"
             ],
-            "features": "- Atração 1\n- Atração 2\n- Atração 3\n- Atração 4"         
+            "features": "- Música ao vivo"         
         }
     ],
     "tickets": [
