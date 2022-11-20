@@ -5,7 +5,7 @@
             "name": "Glow in EACH",
             "production": "Comissão de festas EACH-USP ",
             "rating": 5,
-            "image": "https://magaluteste.blob.core.windows.net/container-ml/GlowInEach.jpg",
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/GlowInEach.jpg",
             "description": "Um dos melhores eventos do ano, organizado pelo DASI. Não deixe de conferir esse evento com open bar e diversas atrações!  ",
             "categories": [
                 "Festas Universitárias",
@@ -18,7 +18,7 @@
             "name": "Holland",
             "production": "Comissão de festas EACH-USP ",
             "rating": 4,
-            "image": "https://magaluteste.blob.core.windows.net/container-ml/Holland.jpg",
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/Holland.jpg",
             "description": "A Holland é uma festa temática anual do curso de Marketing da EACH-USP e organizado pelo DAMA. Não deixe passar a oportunidade de aproveitar open bar e música de diversos estilos ",
             "categories": [
                 "Festas Universitárias",
@@ -31,7 +31,7 @@
             "name": "Las Brisas",
             "production": "Comissão de festas EACH-USP ",
             "rating": 4,
-            "image": "https://magaluteste.blob.core.windows.net/container-ml/LasBrisas.jpg",
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/LasBrisas.jpg",
             "description": "Venha conferir a melhor festa à fantasia do ano. Organizada pelo Diretório Acadêmico de Gestão Ambiental este evento possui open bar e música para todos os gostos.",
             "categories": [
                 "Festas Universitárias",
@@ -45,7 +45,7 @@
             "name": "CaipirUSP",
             "production": "Produtor 4",
             "rating": 5,
-            "image": "https://magaluteste.blob.core.windows.net/container-ml/Caipirusp.jpg",
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/Caipirusp.jpg",
             "description": "Venha participar dos jogos universitários CaipirUSP. Com diversas competições, shows e open bar. Vai perder esta oportunidade?",
             "categories": [
                 "Jogos Universitários"
@@ -58,7 +58,7 @@
             "name": "Tusca",
             "production": "Associação Universitária ",
             "rating": 5,
-            "image": "https://magaluteste.blob.core.windows.net/container-ml/tusca.jpg",
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/tusca.jpg",
             "description": "A Taça Universitária de São Carlos – a TUSCA é uma das maiores e mais tradicionais competição universitária. Anualmente na cidade de São Carlos. Não deixe passar essa oportunidade e venha prestigiar o maior evento universitário do país. Open bar todos os dias com Vodka, cerveja Heineken, e Gin. ",
             "categories": [
                 "Jogos Universitários"
@@ -70,7 +70,7 @@
             "name": "Economíadas",
             "production": "Associação Universitária",
             "rating": 3,
-            "image": "https://magaluteste.blob.core.windows.net/container-ml/economiadas.jpg",
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/economiadas.jpg",
             "description": "O Economíadas, fundado em 1991, é um dos mais tradicionais Jogos Universitários do estado de São Paulo, unindo um esportivo e altíssimo nível às conhecidas e apreciadas festas. Não deixe de participar e viver esse evento incrível que ocorrerá na cidade de Araraquara. Open bar incluso com as melhores bebidas. ",
             "categories": [
                 "Jogos Universitários",
@@ -83,7 +83,7 @@
             "name": "Show Maroon 5",
             "production": "Eventim",
             "rating": 4,
-            "image": "https://magaluteste.blob.core.windows.net/container-ml/maroon5.jpg",
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/maroon5.jpg",
             "description": "Maroon 5 é uma das mais conhecidas bandas de pop do mundo. Com hits que marcaram gerações, She Will Be Loved, This Love, Moves Like Jagger, Payphone e Girls Like You. A banda norte-americana irá realizar apresentação única no estádio do Allianz em São Paulo. ",
             "categories": [
                 "Música Internacional",
@@ -96,7 +96,7 @@
             "name": "Rock in Rio",
             "production": "Eventim",
             "rating": 3,
-            "image": "https://magaluteste.blob.core.windows.net/container-ml/rockinrio.jpg",
+            "image": "https://magaluteste.blob.core.windows.net/container-myparty/rockinrio.jpg",
             "description": "Rock in Rio é sem dúvidas um dos maiores festivais musicais do mundo. Localizado na Cidade do Rock, além das atrações musicais, conta com um parque interativo. Não deixe de curtir e viver uma experiência incrível, na cidade maravilhosa.",
             "categories": [
                 "Música Internacional",
