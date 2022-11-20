@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Glow in EACH",
-            "production": "Comissão de festas EACH-USP ",
+            "production": "Comissão de festas EACH-USP",
             "rating": 5,
             "image": "https://magaluteste.blob.core.windows.net/container-myparty/GlowInEach.jpg",
             "description": "Um dos melhores eventos do ano, organizado pelo DASI. Não deixe de conferir esse evento com open bar e diversas atrações!  ",
@@ -16,7 +16,7 @@
         {
             "id": 2,
             "name": "Holland",
-            "production": "Comissão de festas EACH-USP ",
+            "production": "Comissão de festas EACH-USP",
             "rating": 4,
             "image": "https://magaluteste.blob.core.windows.net/container-myparty/Holland.jpg",
             "description": "A Holland é uma festa temática anual do curso de Marketing da EACH-USP e organizado pelo DAMA. Não deixe passar a oportunidade de aproveitar open bar e música de diversos estilos ",
@@ -29,7 +29,7 @@
         {
             "id": 3,
             "name": "Las Brisas",
-            "production": "Comissão de festas EACH-USP ",
+            "production": "Comissão de festas EACH-USP",
             "rating": 4,
             "image": "https://magaluteste.blob.core.windows.net/container-myparty/LasBrisas.jpg",
             "description": "Venha conferir a melhor festa à fantasia do ano. Organizada pelo Diretório Acadêmico de Gestão Ambiental este evento possui open bar e música para todos os gostos.",
@@ -56,7 +56,7 @@
         {
             "id": 5,
             "name": "Tusca",
-            "production": "Associação Universitária ",
+            "production": "Associação Universitária",
             "rating": 5,
             "image": "https://magaluteste.blob.core.windows.net/container-myparty/tusca.jpg",
             "description": "A Taça Universitária de São Carlos – a TUSCA é uma das maiores e mais tradicionais competição universitária. Anualmente na cidade de São Carlos. Não deixe passar essa oportunidade e venha prestigiar o maior evento universitário do país. Open bar todos os dias com Vodka, cerveja Heineken, e Gin. ",
