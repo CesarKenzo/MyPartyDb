@@ -256,6 +256,20 @@
             "available": 100
         }
     ],
+    "marketplace-ticket": [
+        {
+            "id":1,
+            "eventId":1,
+            "eventName":"Evento 1",
+            "userName":"Usuário 1",
+            "value": 100, 
+            "categories": [
+                "Categoria 1",
+                "Categoria 2",
+                "Categoria 3"
+            ]
+        }
+    ],
     "posts": [
         {
             "id": 1,
