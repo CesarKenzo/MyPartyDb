@@ -1,295 +1,303 @@
 {
-    "events": [
-        {
-            "id": 1,
-            "name": "Glow in EACH",
-            "production": "Comissão de festas EACH-USP",
-            "rating": 5,
-            "image": "https://magaluteste.blob.core.windows.net/container-myparty/GlowInEach.jpg",
-            "description": "Um dos melhores eventos do ano, organizado pelo DASI. Não deixe de conferir esse evento com open bar e diversas atrações!  ",
-            "categories": [
-                "Festas Universitárias",
-                "Música"
-            ],
-            "features": "- Open Bar\n- Música ao vivo"     
-        },
-        {
-            "id": 2,
-            "name": "Holland",
-            "production": "Comissão de festas EACH-USP",
-            "rating": 4,
-            "image": "https://magaluteste.blob.core.windows.net/container-myparty/Holland.jpg",
-            "description": "A Holland é uma festa temática anual do curso de Marketing da EACH-USP e organizado pelo DAMA. Não deixe passar a oportunidade de aproveitar open bar e música de diversos estilos ",
-            "categories": [
-                "Festas Universitárias",
-                "Música"
-            ],
-            "features": "- Open Bar\n- Música ao vivo"         
-        },
-        {
-            "id": 3,
-            "name": "Las Brisas",
-            "production": "Comissão de festas EACH-USP",
-            "rating": 4,
-            "image": "https://magaluteste.blob.core.windows.net/container-myparty/LasBrisas.jpg",
-            "description": "Venha conferir a melhor festa à fantasia do ano. Organizada pelo Diretório Acadêmico de Gestão Ambiental este evento possui open bar e música para todos os gostos.",
-            "categories": [
-                "Festas Universitárias",
-                "Música"
-               
-            ],
-            "features": "- Open Bar\n- Música ao vivo"         
-        },
-        {
-            "id": 4,
-            "name": "CaipirUSP",
-            "production": "Associação Universitária",
-            "rating": 5,
-            "image": "https://magaluteste.blob.core.windows.net/container-myparty/Caipirusp.jpg",
-            "description": "Venha participar dos jogos universitários CaipirUSP. Com diversas competições, shows e open bar. Vai perder esta oportunidade?",
-            "categories": [
-                "Jogos Universitários"
-                
-            ],
-            "features": "- Open Bar\n- Música ao vivo"         
-        },
-        {
-            "id": 5,
-            "name": "Tusca",
-            "production": "Associação Universitária",
-            "rating": 5,
-            "image": "https://magaluteste.blob.core.windows.net/container-myparty/tusca.jpg",
-            "description": "A Taça Universitária de São Carlos – a TUSCA é uma das maiores e mais tradicionais competição universitária. Anualmente na cidade de São Carlos. Não deixe passar essa oportunidade e venha prestigiar o maior evento universitário do país. Open bar todos os dias com Vodka, cerveja Heineken, e Gin. ",
-            "categories": [
-                "Jogos Universitários"
-            ],
-            "features": "- Open Bar\n- Música ao vivo"         
-        }, 
-        {
-            "id": 6,
-            "name": "Economíadas",
-            "production": "Associação Universitária",
-            "rating": 3,
-            "image": "https://magaluteste.blob.core.windows.net/container-myparty/economiadas.jpg",
-            "description": "O Economíadas, fundado em 1991, é um dos mais tradicionais Jogos Universitários do estado de São Paulo, unindo um esportivo e altíssimo nível às conhecidas e apreciadas festas. Não deixe de participar e viver esse evento incrível que ocorrerá na cidade de Araraquara. Open bar incluso com as melhores bebidas. ",
-            "categories": [
-                "Jogos Universitários",
-                "Música"
-            ],
-            "features": "- Open Bar\n- Música ao vivo"         
-        },
-        {
-            "id": 7,
-            "name": "Show Maroon 5",
-            "production": "Eventim",
-            "rating": 4,
-            "image": "https://magaluteste.blob.core.windows.net/container-myparty/maroon5.jpg",
-            "description": "Maroon 5 é uma das mais conhecidas bandas de pop do mundo. Com hits que marcaram gerações, She Will Be Loved, This Love, Moves Like Jagger, Payphone e Girls Like You. A banda norte-americana irá realizar apresentação única no estádio do Allianz em São Paulo. ",
-            "categories": [
-                "Música Internacional",
-                "Shows"
-            ],
-            "features": "- Música ao vivo"         
-        },
-        {
-            "id": 8,
-            "name": "Rock in Rio",
-            "production": "Eventim",
-            "rating": 3,
-            "image": "https://magaluteste.blob.core.windows.net/container-myparty/rockinrio.jpg",
-            "description": "Rock in Rio é sem dúvidas um dos maiores festivais musicais do mundo. Localizado na Cidade do Rock, além das atrações musicais, conta com um parque interativo. Não deixe de curtir e viver uma experiência incrível, na cidade maravilhosa.",
-            "categories": [
-                "Música Internacional",
-                "Shows"
-            ],
-            "features": "- Música ao vivo"         
-        }
-    ],
-    "tickets": [
-        {
-            "id": 1,
-            "name": "Lote 1 - Ingresso Meia",
-            "eventId": 1,
-            "value": 20.0,
-            "type": "Meia",
-            "available": 100
-        },
-        {
-            "id": 2,
-            "name": "Lote 1 - Ingresso Comum",
-            "eventId": 1,
-            "value": 40.0,
-            "type": "Comum",
-            "available": 100
-        },
-        {
-            "id": 3,
-            "name": "Ingresso Dia - 25/11",
-            "eventId": 2,
-            "value": 120.0,
-            "type": "Comum",
-            "available": 0
-        },
-        {
-            "id": 4,
-            "name": "Ingresso Dia - 25/11",
-            "eventId": 2,
-            "value": 60.0,
-            "type": "Meia",
-            "available": 0
-        },
-        {
-            "id": 5,
-            "name": "Ingresso Dia - 26/11",
-            "eventId": 2,
-            "value": 120.0,
-            "type": "Comum",
-            "available": 0
-        },
-        {
-            "id": 6,
-            "name": "Ingresso Dia - 26/11",
-            "eventId": 2,
-            "value": 60.0,
-            "type": "Meia",
-            "available": 0
-        },
-        {
-            "id": 7,
-            "name": "Ingresso Comum",
-            "eventId": 3,
-            "value": 50.0,
-            "type": "Comum",
-            "available": 100
-        },
-        {
-            "id": 8,
-            "name": "Ingresso Meia",
-            "eventId": 3,
-            "value": 25.0,
-            "type": "Meia",
-            "available": 100
-        },
-        {
-            "id": 9,
-            "name": "Ingresso Comum",
-            "eventId": 4,
-            "value": 70.0,
-            "type": "Comum",
-            "available": 100
-        },
-        {
-            "id": 10,
-            "name": "Ingresso VIP",
-            "eventId": 4,
-            "value": 120.0,
-            "type": "VIP",
-            "available": 100
-        },
-        {
-            "id": 11,
-            "name": "Lote 1 - Ingresso",
-            "eventId": 5,
-            "value": 30.0,
-            "type": "Comum",
-            "available": 0
-        },
-        {
-            "id": 12,
-            "name": "Lote 2 - Ingresso",
-            "eventId": 5,
-            "value": 35.0,
-            "type": "Comum",
-            "available": 100
-        },
-        {
-            "id": 13,
-            "name": "Lote 1 - Inteira",
-            "eventId": 6,
-            "value": 200.0,
-            "type": "Comum",
-            "available": 200
-        },
-        {
-            "id": 14,
-            "name": "Lote 1 - Meia",
-            "eventId": 6,
-            "value": 100.0,
-            "type": "Meia",
-            "available": 200
-        },
-        {
-            "id": 15,
-            "name": "Ingresso Comum",
-            "eventId": 7,
-            "value": 70.0,
-            "type": "Comum",
-            "available": 100
-        },
-        {
-            "id": 16,
-            "name": "Ingresso VIP",
-            "eventId": 7,
-            "value": 140.0,
-            "type": "VIP",
-            "available": 100
-        },
-        {
-            "id": 17,
-            "name": "Lote 1 - Inteira",
-            "eventId": 8,
-            "value": 90.0,
-            "type": "Inteira",
-            "available": 100
-        },
-        {
-            "id": 18,
-            "name": "Lote 1 - Meia",
-            "eventId": 8,
-            "value": 45.0,
-            "type": "Meia",
-            "available": 100
-        }
-    ],
-    "marketplace-ticket": [
-        {
-            "id":1,
-            "eventId":1,
-            "eventName":"Evento 1",
-            "userName":"Usuário 1",
-            "value": 100, 
-            "categories": [
-                "Categoria 1",
-                "Categoria 2",
-                "Categoria 3"
-            ]
-        }
-    ],
-    "posts": [
-        {
-            "id": 1,
-            "title": "Post 1",
-            "createdBy": "User 1",
-            "language": "Java",
-            "description": "Description of the problem",
-            "categories": [
-                "Categoria 1",
-                "Categoria 2",
-                "Categoria 3"
-            ],
-            "likes": 100 
-        },
-        {
-            "id": 2,
-            "title": "Post 2",
-            "createdBy": "User 2",
-            "language": "C#",
-            "description": "Description of the problem",
-            "categories": [
-                "Categoria 1",
-                "Categoria 2"
-            ],
-            "likes": 50 
-        }
-    ]
+  "events": [
+    {
+      "id": 1,
+      "name": "Glow in EACH",
+      "production": "Comissão de festas EACH-USP",
+      "rating": 5,
+      "image": "https://magaluteste.blob.core.windows.net/container-myparty/GlowInEach.jpg",
+      "description": "Um dos melhores eventos do ano, organizado pelo DASI. Não deixe de conferir esse evento com open bar e diversas atrações!  ",
+      "categories": [
+        "Festas Universitárias",
+        "Música"
+      ],
+      "features": "- Open Bar\n- Música ao vivo"
+    },
+    {
+      "id": 2,
+      "name": "Holland",
+      "production": "Comissão de festas EACH-USP",
+      "rating": 4,
+      "image": "https://magaluteste.blob.core.windows.net/container-myparty/Holland.jpg",
+      "description": "A Holland é uma festa temática anual do curso de Marketing da EACH-USP e organizado pelo DAMA. Não deixe passar a oportunidade de aproveitar open bar e música de diversos estilos ",
+      "categories": [
+        "Festas Universitárias",
+        "Música"
+      ],
+      "features": "- Open Bar\n- Música ao vivo"
+    },
+    {
+      "id": 3,
+      "name": "Las Brisas",
+      "production": "Comissão de festas EACH-USP",
+      "rating": 4,
+      "image": "https://magaluteste.blob.core.windows.net/container-myparty/LasBrisas.jpg",
+      "description": "Venha conferir a melhor festa à fantasia do ano. Organizada pelo Diretório Acadêmico de Gestão Ambiental este evento possui open bar e música para todos os gostos.",
+      "categories": [
+        "Festas Universitárias",
+        "Música"
+      ],
+      "features": "- Open Bar\n- Música ao vivo"
+    },
+    {
+      "id": 4,
+      "name": "CaipirUSP",
+      "production": "Associação Universitária",
+      "rating": 5,
+      "image": "https://magaluteste.blob.core.windows.net/container-myparty/Caipirusp.jpg",
+      "description": "Venha participar dos jogos universitários CaipirUSP. Com diversas competições, shows e open bar. Vai perder esta oportunidade?",
+      "categories": [
+        "Jogos Universitários"
+      ],
+      "features": "- Open Bar\n- Música ao vivo"
+    },
+    {
+      "id": 5,
+      "name": "Tusca",
+      "production": "Associação Universitária",
+      "rating": 5,
+      "image": "https://magaluteste.blob.core.windows.net/container-myparty/tusca.jpg",
+      "description": "A Taça Universitária de São Carlos – a TUSCA é uma das maiores e mais tradicionais competição universitária. Anualmente na cidade de São Carlos. Não deixe passar essa oportunidade e venha prestigiar o maior evento universitário do país. Open bar todos os dias com Vodka, cerveja Heineken, e Gin. ",
+      "categories": [
+        "Jogos Universitários"
+      ],
+      "features": "- Open Bar\n- Música ao vivo"
+    },
+    {
+      "id": 6,
+      "name": "Economíadas",
+      "production": "Associação Universitária",
+      "rating": 3,
+      "image": "https://magaluteste.blob.core.windows.net/container-myparty/economiadas.jpg",
+      "description": "O Economíadas, fundado em 1991, é um dos mais tradicionais Jogos Universitários do estado de São Paulo, unindo um esportivo e altíssimo nível às conhecidas e apreciadas festas. Não deixe de participar e viver esse evento incrível que ocorrerá na cidade de Araraquara. Open bar incluso com as melhores bebidas. ",
+      "categories": [
+        "Jogos Universitários",
+        "Música"
+      ],
+      "features": "- Open Bar\n- Música ao vivo"
+    },
+    {
+      "id": 7,
+      "name": "Show Maroon 5",
+      "production": "Eventim",
+      "rating": 4,
+      "image": "https://magaluteste.blob.core.windows.net/container-myparty/maroon5.jpg",
+      "description": "Maroon 5 é uma das mais conhecidas bandas de pop do mundo. Com hits que marcaram gerações, She Will Be Loved, This Love, Moves Like Jagger, Payphone e Girls Like You. A banda norte-americana irá realizar apresentação única no estádio do Allianz em São Paulo. ",
+      "categories": [
+        "Música Internacional",
+        "Shows"
+      ],
+      "features": "- Música ao vivo"
+    },
+    {
+      "id": 8,
+      "name": "Rock in Rio",
+      "production": "Eventim",
+      "rating": 3,
+      "image": "https://magaluteste.blob.core.windows.net/container-myparty/rockinrio.jpg",
+      "description": "Rock in Rio é sem dúvidas um dos maiores festivais musicais do mundo. Localizado na Cidade do Rock, além das atrações musicais, conta com um parque interativo. Não deixe de curtir e viver uma experiência incrível, na cidade maravilhosa.",
+      "categories": [
+        "Música Internacional",
+        "Shows"
+      ],
+      "features": "- Música ao vivo"
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "name": "Lote 1 - Ingresso Meia",
+      "eventId": 1,
+      "value": 20,
+      "type": "Meia",
+      "available": 100
+    },
+    {
+      "id": 2,
+      "name": "Lote 1 - Ingresso Comum",
+      "eventId": 1,
+      "value": 40,
+      "type": "Comum",
+      "available": 100
+    },
+    {
+      "id": 3,
+      "name": "Ingresso Dia - 25/11",
+      "eventId": 2,
+      "value": 120,
+      "type": "Comum",
+      "available": 0
+    },
+    {
+      "id": 4,
+      "name": "Ingresso Dia - 25/11",
+      "eventId": 2,
+      "value": 60,
+      "type": "Meia",
+      "available": 0
+    },
+    {
+      "id": 5,
+      "name": "Ingresso Dia - 26/11",
+      "eventId": 2,
+      "value": 120,
+      "type": "Comum",
+      "available": 0
+    },
+    {
+      "id": 6,
+      "name": "Ingresso Dia - 26/11",
+      "eventId": 2,
+      "value": 60,
+      "type": "Meia",
+      "available": 0
+    },
+    {
+      "id": 7,
+      "name": "Ingresso Comum",
+      "eventId": 3,
+      "value": 50,
+      "type": "Comum",
+      "available": 100
+    },
+    {
+      "id": 8,
+      "name": "Ingresso Meia",
+      "eventId": 3,
+      "value": 25,
+      "type": "Meia",
+      "available": 100
+    },
+    {
+      "id": 9,
+      "name": "Ingresso Comum",
+      "eventId": 4,
+      "value": 70,
+      "type": "Comum",
+      "available": 100
+    },
+    {
+      "id": 10,
+      "name": "Ingresso VIP",
+      "eventId": 4,
+      "value": 120,
+      "type": "VIP",
+      "available": 100
+    },
+    {
+      "id": 11,
+      "name": "Lote 1 - Ingresso",
+      "eventId": 5,
+      "value": 30,
+      "type": "Comum",
+      "available": 0
+    },
+    {
+      "id": 12,
+      "name": "Lote 2 - Ingresso",
+      "eventId": 5,
+      "value": 35,
+      "type": "Comum",
+      "available": 100
+    },
+    {
+      "id": 13,
+      "name": "Lote 1 - Inteira",
+      "eventId": 6,
+      "value": 200,
+      "type": "Comum",
+      "available": 200
+    },
+    {
+      "id": 14,
+      "name": "Lote 1 - Meia",
+      "eventId": 6,
+      "value": 100,
+      "type": "Meia",
+      "available": 200
+    },
+    {
+      "id": 15,
+      "name": "Ingresso Comum",
+      "eventId": 7,
+      "value": 70,
+      "type": "Comum",
+      "available": 100
+    },
+    {
+      "id": 16,
+      "name": "Ingresso VIP",
+      "eventId": 7,
+      "value": 140,
+      "type": "VIP",
+      "available": 100
+    },
+    {
+      "id": 17,
+      "name": "Lote 1 - Inteira",
+      "eventId": 8,
+      "value": 90,
+      "type": "Inteira",
+      "available": 100
+    },
+    {
+      "id": 18,
+      "name": "Lote 1 - Meia",
+      "eventId": 8,
+      "value": 45,
+      "type": "Meia",
+      "available": 100
+    }
+  ],
+  "marketplace-ticket": [
+    {
+      "id": 1,
+      "eventId": 1,
+      "eventName": "Evento 1",
+      "userName": "Usuário 1",
+      "value": 100,
+      "categories": [
+        "Categoria 1",
+        "Categoria 2",
+        "Categoria 3"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "createdBy": "User 1",
+      "language": "Java",
+      "description": "Description of the problem",
+      "categories": [
+        "Categoria 1",
+        "Categoria 2",
+        "Categoria 3"
+      ],
+      "likes": 100
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "createdBy": "User 2",
+      "language": "C#",
+      "description": "Description of the problem",
+      "categories": [
+        "Categoria 1",
+        "Categoria 2"
+      ],
+      "likes": 50
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Teste",
+      "username": "teste.teste",
+      "password": "123456",
+      "profile": "Profile Test",
+      "description": "Description of the problem"
+    }
+  ]
 }
