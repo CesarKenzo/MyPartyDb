@@ -298,6 +298,186 @@
       "password": "123456",
       "profile": "Profile Test",
       "description": "Description of the problem"
+    },
+    {
+      "id": 2,
+      "name": "Cesar Ouchi",
+      "username": "cesar.ouchi",
+      "password": "123456",
+      "profile": "",
+      "description": ""
+    }
+  ],
+  "usersBGo": [
+    {
+      "id": 1,
+      "name": "Cesar Kenzo",
+      "username": "cesar.ouchi",
+      "password": "123456",
+      "profile": "",
+      "description": "",
+      "email": "cesar-kenzo@usp.br",
+      "userDesc": "Professor"
+    },
+    {
+      "id": 2,
+      "name": "Administrador",
+      "username": "dev.adm",
+      "password": "123456",
+      "profile": "",
+      "description": "",
+      "email": "adm@gmail.com",
+      "userDesc": "Administrador"
+    },
+    {
+      "id": 3,
+      "name": "Teste 1",
+      "username": "teste.teste",
+      "password": "1",
+      "profile": "",
+      "description": "",
+      "email": "ck137@hotmail.com",
+      "userDesc": "Aluno"
+    }
+  ],
+  "question": [
+    {
+      "question": "Questão 1",
+      "alt1": "Alt 1",
+      "alt2": "Alt 2 ",
+      "alt3": "Alt 3",
+      "alt4": "Alt 4",
+      "answer": "A",
+      "id": 1
+    },
+    {
+      "question": "Teste",
+      "alt1": "Alternativa 1",
+      "alt2": "Alternativa 2",
+      "alt3": "Alternativa 3",
+      "alt4": "Alternativa 4",
+      "answer": "A",
+      "id": 2
+    }
+  ],
+  "exam": [
+    {
+      "numberOfQuestions": 1,
+      "questions": [
+        {
+          "question": "Exemplo de Questão",
+          "alt1": "Alt 1",
+          "alt2": "Alt 2 ",
+          "alt3": "Alt 3",
+          "alt4": "Alt 4",
+          "answer": "A",
+          "id": 1
+        }
+      ],
+      "subject": "Prova 1",
+      "dueTo": "2022-11-24",
+      "id": 1
+    },
+    {
+      "numberOfQuestions": 2,
+      "questions": [
+        {
+          "question": "Exemplo de Questão",
+          "alt1": "Alt 1",
+          "alt2": "Alt 2 ",
+          "alt3": "Alt 3",
+          "alt4": "Alt 4",
+          "answer": "A",
+          "id": 1
+        },
+        {
+          "question": "Teste",
+          "alt1": "Alternativa 1",
+          "alt2": "Alternativa 2",
+          "alt3": "Alternativa 3",
+          "alt4": "Alternativa 4",
+          "answer": "A",
+          "id": 2
+        }
+      ],
+      "subject": "Teste 1 ",
+      "dueTo": "2022-11-24",
+      "id": 2
+    }
+  ],
+  "task": [
+    {
+      "title": "Tarefa 1",
+      "grade": 100,
+      "userId": [
+        3
+      ],
+      "exam": {
+        "numberOfQuestions": 2,
+        "questions": [
+          {
+            "question": "Exemplo de Questão",
+            "alt1": "Alt 1",
+            "alt2": "Alt 2 ",
+            "alt3": "Alt 3",
+            "alt4": "Alt 4",
+            "answer": "A",
+            "id": 1
+          },
+          {
+            "question": "Teste",
+            "alt1": "Alternativa 1",
+            "alt2": "Alternativa 2",
+            "alt3": "Alternativa 3",
+            "alt4": "Alternativa 4",
+            "answer": "A",
+            "id": 2
+          }
+        ],
+        "subject": "Teste 1 ",
+        "dueTo": "2022-11-24",
+        "id": 2
+      },
+      "userAnswers": [
+        "A",
+        "A"
+      ],
+      "id": 1
+    },
+    {
+      "title": "Tarefa 2",
+      "grade": 0,
+      "userId": [
+        3
+      ],
+      "exam": {
+        "numberOfQuestions": 2,
+        "questions": [
+          {
+            "question": "Exemplo de Questão",
+            "alt1": "Alt 1",
+            "alt2": "Alt 2 ",
+            "alt3": "Alt 3",
+            "alt4": "Alt 4",
+            "answer": "A",
+            "id": 1
+          },
+          {
+            "question": "Teste",
+            "alt1": "Alternativa 1",
+            "alt2": "Alternativa 2",
+            "alt3": "Alternativa 3",
+            "alt4": "Alternativa 4",
+            "answer": "A",
+            "id": 2
+          }
+        ],
+        "subject": "Teste 1 ",
+        "dueTo": "2022-11-24",
+        "id": 2
+      },
+      "userAnswers": [],
+      "id": 3
     }
   ]
 }
