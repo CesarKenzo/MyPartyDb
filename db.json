@@ -11,7 +11,8 @@
         "Festas Universitárias",
         "Música"
       ],
-      "features": "- Open Bar\n- Música ao vivo"
+      "features": "- Open Bar\n- Música ao vivo",
+      "date": "05-12-2022"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
         "Festas Universitárias",
         "Música"
       ],
-      "features": "- Open Bar\n- Música ao vivo"
+      "features": "- Open Bar\n- Música ao vivo",
+      "date": "05-12-2022"
     },
     {
       "id": 3,
@@ -37,7 +39,8 @@
         "Festas Universitárias",
         "Música"
       ],
-      "features": "- Open Bar\n- Música ao vivo"
+      "features": "- Open Bar\n- Música ao vivo",
+      "date": "05-12-2022"
     },
     {
       "id": 4,
@@ -49,7 +52,8 @@
       "categories": [
         "Jogos Universitários"
       ],
-      "features": "- Open Bar\n- Música ao vivo"
+      "features": "- Open Bar\n- Música ao vivo",
+      "date": "05-12-2022"
     },
     {
       "id": 5,
@@ -61,7 +65,8 @@
       "categories": [
         "Jogos Universitários"
       ],
-      "features": "- Open Bar\n- Música ao vivo"
+      "features": "- Open Bar\n- Música ao vivo",
+      "date": "05-12-2022"
     },
     {
       "id": 6,
@@ -74,7 +79,8 @@
         "Jogos Universitários",
         "Música"
       ],
-      "features": "- Open Bar\n- Música ao vivo"
+      "features": "- Open Bar\n- Música ao vivo",
+      "date": "05-12-2022"
     },
     {
       "id": 7,
@@ -87,7 +93,8 @@
         "Música Internacional",
         "Shows"
       ],
-      "features": "- Música ao vivo"
+      "features": "- Música ao vivo",
+      "date": "05-12-2022"
     },
     {
       "id": 8,
@@ -100,7 +107,8 @@
         "Música Internacional",
         "Shows"
       ],
-      "features": "- Música ao vivo"
+      "features": "- Música ao vivo",
+      "date": "05-12-2022"
     }
   ],
   "tickets": [
@@ -253,14 +261,13 @@
     {
       "id": 1,
       "eventId": 1,
-      "eventName": "Evento 1",
-      "userName": "Usuário 1",
-      "value": 100,
-      "categories": [
-        "Categoria 1",
-        "Categoria 2",
-        "Categoria 3"
-      ]
+      "eventName": "Glow in EACH",
+      "userName": "cesar.ouchi",
+      "value": 90,
+      "ticketId": 1,
+      "ticketName": "Lote 1 - Ingresso Meia",
+      "ticketType": "Meia",
+      "flSold": false
     }
   ],
   "users": [
@@ -277,8 +284,123 @@
       "name": "Cesar Ouchi",
       "username": "cesar.ouchi",
       "password": "123456",
-      "profile": "",
-      "description": ""
+      "profile": "Edit Profile\nProfile",
+      "description": "",
+      "favoriteCategories": [
+        "Festas Universitárias",
+        "Música",
+        "Jogos Universitários"
+      ],
+      "favoriteEvents": [
+        6,
+        1
+      ]
     }
-  ]
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Festas Universitárias",
+      "value": "categoria-1"
+    },
+    {
+      "id": 2,
+      "name": "Música",
+      "value": "categoria-2"
+    },
+    {
+      "id": 3,
+      "name": "Jogos Universitários",
+      "value": "categoria-3"
+    },
+    {
+      "id": 4,
+      "name": "Música Internacional",
+      "value": "categoria-4"
+    },
+    {
+      "id": 5,
+      "name": "Shows",
+      "value": "categoria-5"
+    },
+    {
+      "id": 6,
+      "name": "Teste",
+      "value": "categoria-6"
+    }
+  ],
+  "userTickets": [
+    {
+      "event": {
+        "id": 1,
+        "name": "Glow in EACH",
+        "production": "Comissão de festas EACH-USP",
+        "rating": 5,
+        "image": "https://magaluteste.blob.core.windows.net/container-myparty/GlowInEach.jpg",
+        "description": "Um dos melhores eventos do ano, organizado pelo DASI. Não deixe de conferir esse evento com open bar e diversas atrações!  ",
+        "categories": [
+          "Festas Universitárias",
+          "Música"
+        ],
+        "features": "- Open Bar\n- Música ao vivo"
+      },
+      "user": {
+        "id": 2,
+        "name": "Cesar Ouchi",
+        "username": "cesar.ouchi",
+        "password": "123456",
+        "profile": "Edit Profile\nProfile",
+        "description": "",
+        "favoriteCategories": [
+          "Festas Universitárias"
+        ]
+      },
+      "ticket": {
+        "id": 2,
+        "name": "Lote 1 - Ingresso Comum",
+        "eventId": 1,
+        "value": 40,
+        "type": "Comum",
+        "available": 100
+      },
+      "id": 1
+    },
+    {
+      "event": {
+        "id": 3,
+        "name": "Las Brisas",
+        "production": "Comissão de festas EACH-USP",
+        "rating": 4,
+        "image": "https://magaluteste.blob.core.windows.net/container-myparty/LasBrisas.jpg",
+        "description": "Venha conferir a melhor festa à fantasia do ano. Organizada pelo Diretório Acadêmico de Gestão Ambiental este evento possui open bar e música para todos os gostos.",
+        "categories": [
+          "Festas Universitárias",
+          "Música"
+        ],
+        "features": "- Open Bar\n- Música ao vivo"
+      },
+      "user": {
+        "id": 2,
+        "name": "Cesar Ouchi",
+        "username": "cesar.ouchi",
+        "password": "123456",
+        "profile": "Edit Profile\nProfile",
+        "description": "",
+        "favoriteCategories": [
+          "Festas Universitárias"
+        ]
+      },
+      "ticket": {
+        "id": 8,
+        "name": "Ingresso Meia",
+        "eventId": 3,
+        "value": 25,
+        "type": "Meia",
+        "available": 100
+      },
+      "id": 2
+    }
+  ],
+  "eventComments": [],
+  "productionComments": []
 }
