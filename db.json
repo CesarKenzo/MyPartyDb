@@ -262,7 +262,7 @@
       "id": 1,
       "eventId": 1,
       "eventName": "Glow in EACH",
-      "userName": "cesar.ouchi",
+      "userName": "andre.pereira",
       "value": 90,
       "ticketId": 1,
       "ticketName": "Lote 1 - Ingresso Meia",
@@ -295,6 +295,19 @@
         6,
         1
       ]
+    },
+    {
+      "id": 3,
+      "name": "Teste 2",
+      "username": "teste2",
+      "password": "123456",
+      "profile": "fdsfsdf",
+      "description": "",
+      "favoriteCategories": [
+        "Festas Universitárias",
+        "Música"
+      ],
+      "favoriteEvents": []
     }
   ],
   "categories": [
